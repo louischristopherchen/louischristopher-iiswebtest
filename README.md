@@ -2,6 +2,10 @@
 
 ### `npm install`
 
+### `npm run dev`
+
+### `npm build`
+
 ### `npm start`
 
 
@@ -11,21 +15,23 @@ git clone https://github.com/louischristopherchen/louis-chirstopher--iiswebtest.
 
 * run local :
 
-  1. cd dashboard
+  1. cd louischristopher-iiswebtest
 
   2. npm install
 
   3. npm run dev
 
-* run public :
+* run development :
 
-  1. cd dashboard
+  1. cd louischristopher-iiswebtest
 
   2. npm install
 
-  3. npm start (heroku default run on npm start)
+  3. npm run build
 
-Link [Click here][https://chart-visualization.herokuapp.com/]
+  4. npm start (heroku default run on npm start)
+
+Link [Click here](https://chart-visualization.herokuapp.com/)
 
 Note: 
 1. if __No Data__ is mean your delete all table data.
